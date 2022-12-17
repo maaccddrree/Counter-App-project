@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-    background: white;
+    background: rgb(209, 87, 87);
     max-width: 50%;
     margin: auto;
     border: 3px solid black;
@@ -27,7 +27,7 @@ h2 {
 }
 
 button {
-    border: 1px solid black;
+    border: 3px solid yellow;
     padding-top: 10px;
     padding-bottom: 10px;
     color: white;
